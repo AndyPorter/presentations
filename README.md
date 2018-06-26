@@ -4,7 +4,7 @@ presentations, talks, etc
 
 ## list
 
-* [scripted screenshotting](../screenshotting/readme.md)
+* [scripted screenshotting](/screenshotting/readme.md)
 
 
 ## purpose of repo
