@@ -4,7 +4,8 @@ presentations, talks, etc
 
 ## list
 
-* [scripted screenshotting](/screenshotting/README.md)
+* [scripted screenshotting](/screenshotting/README.md) presentation
+* [ways of working](/ways-of-working/README.md) presentation and posters
 
 
 ## purpose of repo
