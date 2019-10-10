@@ -15,10 +15,16 @@ posters, of the principles and tips, made for the follow on, 45 minute exercise 
 
 ### posters
 
+* [set challenging goals](../files/set-challenging-goals.pdf) (pdf)
+* [remove barriers to collaboration](../files/remove-barriers-to-collaboration.pdf) (pdf)
+* [iterate and improve daily](../files/iterate-and-improve-daily.pdf) (pdf)
+* [POST](../files/POST.pdf) (pdf)
+* [POST roles](../files/POST-roles.pdf) (pdf)
+
 * [set challenging goals (white background)](../files/set-challenging-goals-CulturePoster-white-bg.png) (png)
 * [set challenging goals (transparent background)](../files/set-challenging-goals-CulturePoster.png) (png)
-* [remove barriers to communication (white background)](../files/remove-barriers-to-communication-CulturePoster-white-bg.png) (png)
-* [remove barriers to communication (transparent background)](../files/remove-barriers-to-communication-CulturePoster.png) (png)
+* [remove barriers to collaboration (white background)](../files/remove-barriers-to-collaboration-CulturePoster-white-bg.png) (png)
+* [remove barriers to collaboration (transparent background)](../files/remove-barriers-to-collaboration-CulturePoster.png) (png)
 * [iterate and improve daily (white background)](../files/iterate-and-improve-CulturePoster-white-bg.png) (png)
 * [iterate and improve daily (transparent background)](../files/iterate-and-improve-CulturePoster.png) (png)
 * [POST (white background)](../files/POST-poster-white-bg.png) (png)
